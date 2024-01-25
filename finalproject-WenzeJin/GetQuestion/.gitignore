@@ -1,0 +1,7 @@
+data/
+cache/
+*.json
+.idea/
+*.jpg
+*.png
+res/

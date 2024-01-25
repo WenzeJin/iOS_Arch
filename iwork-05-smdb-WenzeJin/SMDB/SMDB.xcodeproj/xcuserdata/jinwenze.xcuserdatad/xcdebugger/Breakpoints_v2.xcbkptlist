@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55182579-2C82-4FA7-B17E-DE7CD9672553"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B9802A6-9406-47DA-AE25-610CCDC859A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SMDB/ReviewsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "findSentiment(_:sentimentClassifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B24057BF-4950-4526-9C52-A8D0274FB577"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SMDB/ReviewsManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "findSentiment(_:sentimentClassifier:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B24057BF-4950-4526-9C52-A8D0274FB577 - 4f38d0a7f251ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SMDB.ReviewsManager.findSentiment(_: SMDB.Review, sentimentClassifier: Swift.Optional&lt;__C.NLModel&gt;) -&gt; ()"
+                  moduleName = "SMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinwenze/Coding/2023/iOS/iWork-05/SMDB/SMDB/ReviewsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "B24057BF-4950-4526-9C52-A8D0274FB577 - 4f38d0a7f251ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SMDB.ReviewsManager.findSentiment(_: SMDB.Review, sentimentClassifier: Swift.Optional&lt;__C.NLModel&gt;) -&gt; ()"
+                  moduleName = "SMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinwenze/Coding/2023/iOS/iWork-05/SMDB/SMDB/ReviewsManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F29A5F7-E2F7-4D72-9E1B-86805DC6F416"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SMDB/NLPHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "spanishToEnglish(text:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D115BE41-853C-4687-A14D-C4907A404403"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SMDB/NLPHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "spanishToEnglish(text:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D115BE41-853C-4687-A14D-C4907A404403 - fa4b73b9e0afb7c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SMDB.spanishToEnglish(text: Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinwenze/Coding/2023/iOS/iWork-05/SMDB/SMDB/NLPHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1364">
+               </Location>
+               <Location
+                  uuid = "D115BE41-853C-4687-A14D-C4907A404403 - fa4b73b9e0afb7c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SMDB.spanishToEnglish(text: Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SMDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinwenze/Coding/2023/iOS/iWork-05/SMDB/SMDB/NLPHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
