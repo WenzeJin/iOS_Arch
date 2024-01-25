@@ -1,0 +1,11 @@
+*.jpg
+*.png
+*.pdf
+*.jpeg
+.DS_Store
+*.csv
+.idea/
+.vscode/
+*.tar
+*.gz
+*.bz2
